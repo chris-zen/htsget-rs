@@ -4,6 +4,7 @@ members = [
     "htsget-actix",
     "htsget-http",
     "htsget-lambda",
+    "htsget-cloudflare",
     "htsget-search",
     "htsget-test",
 ]
