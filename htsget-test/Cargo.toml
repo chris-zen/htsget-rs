@@ -40,7 +40,7 @@ default = []
 
 [dependencies]
 # Server tests dependencies
-htsget-config = { version = "0.13.0", path = "../htsget-config", default-features = false, optional = true }
+htsget-config = { version = "0.13.1", path = "../htsget-config", default-features = false, optional = true }
 
 noodles = { version = "0.83", optional = true, features = ["async", "bgzf", "vcf", "cram", "bcf", "bam", "fasta"] }
 

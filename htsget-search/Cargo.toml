@@ -43,7 +43,7 @@ noodles = { version = "0.83", features = ["async", "core", "bgzf", "bam", "bcf",
 thiserror = "1"
 tracing = "0.1"
 
-htsget-config = { version = "0.13.0", path = "../htsget-config", default-features = false }
+htsget-config = { version = "0.13.1", path = "../htsget-config", default-features = false }
 htsget-storage = { version = "0.3.0", path = "../htsget-storage", default-features = false }
 htsget-test = { version = "0.7.2", path = "../htsget-test", features = ["http"], default-features = false }
 
